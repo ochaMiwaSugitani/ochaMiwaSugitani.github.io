@@ -23,7 +23,7 @@ body {
 
 /* ヘッダー (変更なし) */
 header {
-    background-color: #add8e6;
+    background-color: #C5E3FF;
     color: white;
     padding: 18px 0;
     text-align: center;
@@ -82,7 +82,7 @@ h1 {
 hr {
   border: 0;
   height: 2px;
-  background-image: linear-gradient(to right, transparent, #add8e6, transparent);
+  background-image: linear-gradient(to right, transparent, #C5E3FF, transparent);
   margin-bottom: 40px;
 }
 
@@ -164,7 +164,7 @@ a:hover, a:focus {
   min-width: 270px;
   box-shadow: 0 5px 15px rgba(173, 216, 230, 0.3);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border-top: 5px solid #add8e6;
+  border-top: 5px solid #C5E3FF;
 }
 
 .skillInfo:hover {
@@ -197,7 +197,7 @@ a:hover, a:focus {
   margin-bottom: 30px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.07);
   transition: box-shadow 0.3s ease, transform 0.3s ease;
-  border-left: 5px solid #add8e6;
+  border-left: 5px solid #C5E3FF;
 }
 .info:hover {
     box-shadow: 0 7px 20px rgba(0, 0, 0, 0.1);
@@ -218,7 +218,7 @@ a:hover, a:focus {
   font-family: 'M PLUS Rounded 1c', sans-serif;
   white-space: nowrap;
   font-size: 0.85em;
-  background-color: #add8e6;
+  background-color: #C5E3FF;
   padding: 6px 12px;
   border-radius: 15px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -258,7 +258,7 @@ a:hover, a:focus {
 
 /* フッター (変更なし) */
 footer {
-  background-color: #add8e6;
+  background-color: #C5E3FF;
   text-align: center;
   padding: 25px 15px;
   font-size: 0.9em;
