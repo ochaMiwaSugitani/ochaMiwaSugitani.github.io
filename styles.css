@@ -256,11 +256,11 @@ a:hover, a:focus {
   display: none;
 }
 
-/* フッター (変更なし) */
+/* フッター */
 footer {
   background-color: #a5d6e6;
   text-align: center;
-  padding: 20px 15px;
+  padding: 10px 15px;
   font-size: 0.9em;
   color: #fff;
   position: fixed;
